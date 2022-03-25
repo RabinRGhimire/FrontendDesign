@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+
+
+.heading{
+  text-align: center !important;
+  padding:3rem 0 !important;
+  
+}
+
+.heading span{
+  font-size: 2rem !important;
+  font-weight: bold;
+  background:rgba(255, 165, 0,.2) !important;
+  color:orange !important;
+  border-radius: .5rem !important;
+  padding:.2rem 1rem !important;
+  margin-left: .5rem !important;
+}
+
+.heading span.space{
+  background:none !important;
+}
+
+.row-products{
+    background-color: white !important;
+}
+
+.card-img-top{
+    height: 250px;
+    
+}
+
+.bi{
+    color: orange;
+}
+
+.btn .btn-gen{
+    color: red !important;
+}
+
+.btn-gen{
+display: inline-block;
+  
+  background:#ffbf00;
+  color:#fff;
+  padding:.4rem .6rem;
+  border:.1rem solid orange;
+  cursor: pointer;
+  font-size: 1rem;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.btn-gen:hover{
+    color: #f7cb45 !important;
+    background: #f7f2e4 !important;
+}
+
+.card-text{
+    height: 280px;
+}

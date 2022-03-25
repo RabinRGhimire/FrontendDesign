@@ -1,0 +1,19 @@
+.footer-container{
+    width: 95% !important;
+    
+}
+
+.row-footer{
+    background-color: grey !important;
+    color: white !important;
+    
+}
+
+.nav-link{
+    color: white !important;
+    font-weight: 600 !important;
+}
+
+h5{
+    font-weight: bold;
+}
